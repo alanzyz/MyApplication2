@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 CrashReport.testJavaCrash();
             }
         });
+//        这里多了一行的注释，这里是3.0里面的内容。
     }
 
 
