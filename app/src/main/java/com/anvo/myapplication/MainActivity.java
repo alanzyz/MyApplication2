@@ -28,9 +28,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    /*这里是kotlin的最新改动*/
-//    这是master，是两行
-//    我是master呀，我变成了三行
+//    我是全新的kotlin
+
 
 
 
