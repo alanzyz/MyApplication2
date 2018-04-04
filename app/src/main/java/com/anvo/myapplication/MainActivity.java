@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    /*这里是主分支的最新改动*/
+    /*这里是kotlin的最新改动*/
 
 
 
