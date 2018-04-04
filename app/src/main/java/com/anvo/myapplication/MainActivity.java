@@ -27,10 +27,8 @@ public class MainActivity extends AppCompatActivity {
                 CrashReport.testJavaCrash();
             }
         });
-//        这里多了一行的注释，这里是3.0里面的内容。
     }
-//    这里是master分支
-//    这里是master分支
+    /*这里是主分支的最新改动*/
 
 
 
